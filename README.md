@@ -93,5 +93,4 @@ Commit your changes (git commit -m 'Add awesome feature')
 Push to the branch (git push origin feature/awesome-feature)
 Create a Pull Request
 
-👥 Authors
-Your Name (@RAJPRASHUL)
+
